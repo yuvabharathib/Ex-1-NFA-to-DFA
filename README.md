@@ -1,3 +1,4 @@
+```
 # Ex-1-NFA-to-DFA
 # Exercise 1 - Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA)
 
@@ -16,3 +17,4 @@ Step 5 : Mark the states of DFA which contains final state of NFA as final state
 # OUTPUT 
 # RESULT
 The program was sucessfully converted from NFA to DFA.
+```
